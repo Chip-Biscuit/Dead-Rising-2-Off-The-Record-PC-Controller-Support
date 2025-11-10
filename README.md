@@ -16,7 +16,7 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 This is a library I have been working on for some time now to add x-input support into games with broken or missing controller support.
 
 # Installation 
-Go to the bottom of the page download DeadRising2Controller.zip unzip it and put the contents into your games install location next to deadrising2.exe. in d3d9.ini you can fully customise the inputs its all explained in the INI you can also use [hotkey]keycodes.txt provided in the fix to help you. 
+Go to releases download DeadRising2Controller.zip unzip it and put the contents into your games install location next to deadrising2.exe. in d3d9.ini you can fully customise the inputs its all explained in the INI you can also use [hotkey]keycodes.txt provided in the fix to help you. 
 # Layout 
 
 <img width="863" height="712" alt="Dead_Rising_2_Off_he_Record_Xbox_Controller_Layout_Image" src="https://github.com/user-attachments/assets/798457ad-5b33-4364-876c-b2b0b5ae6ef7" />
