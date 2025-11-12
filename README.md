@@ -35,7 +35,7 @@ Usually after the second step the game will recognize controller as soon as the 
 
 Now the game should work in full native controller support, with Xbox button prompts and rumble included.
 
-# For Custom controller support (Lacks rumble and button prompts, but allows deep configuration of each button/stick/trigger.
+# For Custom controller support (Lacks rumble and button prompts, but allows deep configuration of each button/stick/trigger.)
 
 Go to the bottom of the page download DeadRising2OTRController.zip unzip it and put the contents into your games install location next to deadrising2.exe. in d3d9.ini you can fully customise the inputs its all explained in the INI you can also use [hotkey]keycodes.txt provided in the fix to help you.
 
