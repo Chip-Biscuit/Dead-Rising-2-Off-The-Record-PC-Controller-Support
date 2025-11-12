@@ -33,7 +33,7 @@ Instructions:
 
 Now the game should work in full native controller support, with xbox button prompts and rumble included.
 
-# Layout 
+# Custom Controller Layout 
 
 <img width="863" height="712" alt="Dead_Rising_2_Off_he_Record_Xbox_Controller_Layout_Image" src="https://github.com/user-attachments/assets/798457ad-5b33-4364-876c-b2b0b5ae6ef7" />
 
