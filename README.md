@@ -17,7 +17,7 @@ This is a library I have been working on for some time now to add x-input suppor
 
 # For native controller support (Allows for Xbox button prompts and rumble)
 
-Go to releases download DeadRising2Controller.zip unzip it and put the contents into your games install location next to deadrising2.exe.
+Go to releases download DeadRising2OTRController.zip unzip it and put the contents into your games install location next to deadrising2.exe.
 Instructions:
 
     Put d3d9.dll & d3d9.ini files in the directory of the game (next to deadrising2.exe)
