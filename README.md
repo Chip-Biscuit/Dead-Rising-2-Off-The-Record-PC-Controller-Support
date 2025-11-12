@@ -32,6 +32,8 @@ Instructions:
  Usually after the second step the game will recognize controller as soon as the game starts. But sometimes (required only once) the game can require turning controller on inside of the game. So start the game, use your keyboard or mouse, head to the "Options", chose "PC Settings" and make sure the "controller" setting is set to "Enabled". All of that should be done while controller is still plugged in, otherwise the "Controller" option will be grayed out.
 
 Now the game should work in full native controller support, with xbox button prompts and rumble included.
+# (If output = 0 inside of d3d9.ini)
+
 
 # Custom Controller Layout 
 
