@@ -31,7 +31,8 @@ Instructions:
 
 # Alternative user profile if the above doesn't work:
 
-[![PCGamingWiki](https://img.shields.io/badge/PCGamingWiki-File%20Page-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://community.pcgamingwiki.com/files/file/3730-chipxinput-dead-rising-2-controller-calibration-fix/)
+[![PCGamingWiki](https://img.shields.io/badge/PCGamingWiki-File%20Page-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://community.pcgamingwiki.com/files/file/3731-chipxinput-dead-rising-2-off-the-record-controller-calibration-fix/)
+
 
 
 # Issues
