@@ -27,7 +27,8 @@ Instructions:
 
 <img width="863" height="712" alt="Dead_Rising_2_Off_he_Record_Xbox_Controller_Layout_Image" src="https://github.com/user-attachments/assets/798457ad-5b33-4364-876c-b2b0b5ae6ef7" />
 
-<img width="1122" height="1588" alt="Dead_Rising_2_Off_the_Record_Xbox_Controller_Layout" src="https://github.com/user-attachments/assets/869f4de9-a683-4d35-b6d7-07fddb77b687" />
+<img width="927" height="1321" alt="Dead_Rising_2_Off_the_Record_Xbox_Controller_Layout" src="https://github.com/user-attachments/assets/7e9dad43-e555-49bc-b44b-75f015cc77b3" />
+
 
 # Alternative user profile if the above doesn't work:
 
